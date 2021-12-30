@@ -1,0 +1,7 @@
+a : 00 ; count : 4
+c : 010 ; count : 4
+z : 011 ; count : 4
+x : 100 ; count : 4
+s : 101 ; count : 4
+d : 110 ; count : 4
+e : 111 ; count : 4
